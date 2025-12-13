@@ -5,3 +5,7 @@ Tôi là Hoàng Khoa Thắng, yêu thích công nghệ và luôn muốn hiểu c
 
 🎯 Mục tiêu học lập trình
 Tôi muốn học lập trình để xây dựng các ứng dụng hữu ích, phát triển tư duy logic và mở rộng cơ hội nghề nghiệp trong lĩnh vực công nghệ. Mục tiêu của tôi là nắm vững nền tảng, thực hành thường xuyên và có thể tự tin thực hiện các dự án thực tế.
+
+🚀 Ngôn ngữ lập trình
+C++ là ngôn ngữ lập trình mạnh, nhanh, mở rộng từ C và hỗ trợ lập trình hướng đối tượng (OOP). Được dùng nhiều trong game, phần mềm hệ thống, robot, và ứng dụng cần hiệu suất cao.
+
